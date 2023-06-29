@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_one">The Mona Lisa</string>
+    <string name="title_two">Title 2</string>
+    <string name="title_three">Title 3</string>
+    <string name="title_four">Title 4</string>
+    <string name="title_five">Title 5</string>
+    <string name="title_six">Title 6</string>
+    <string name="desc_one">description 1</string>
+    <string name="desc_two">description 2</string>
+    <string name="desc_three">description 3</string>
+    <string name="desc_four">description 4</string>
+    <string name="desc_five">description 5</string>
+    <string name="desc_six">description 6</string>
+</resources>
